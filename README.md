@@ -31,7 +31,6 @@ I'm always eager to expand my skillset. Right now, I'm diving deeper into:
 Feel free to reach out to me for collaboration or just to say hi:
 
 - [LinkedIn](www.linkedin.com/in/alex-alonsom)
-- [Twitter](your_twitter_profile_link)
 - [Email](alonsoalexdw@gmail.com)
 
 Looking forward to connecting with fellow developers and tech enthusiasts! 😄
